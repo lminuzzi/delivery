@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "backender",
+                "projectName": "backender",
+                "workingDirectory": "d:\\GoogleDrive\\Servicos\\glovo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "backender",
+                "projectName": "backender",
+                "workingDirectory": "d:\\GoogleDrive\\Servicos\\glovo",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
