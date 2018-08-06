@@ -1,0 +1,52 @@
+[
+  {
+    "id": "courier-1",
+    "name": "Manolo Escobar",
+    "box": true,
+    "vehicle": "MOTORCYCLE",
+    "location": {
+      "lat": 41.3965463,
+      "lon": 2.1963997
+    }
+  },
+  {
+    "id": "courier-2",
+    "name": "Juarez Esteban",
+    "box": false,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.39980694963036, 
+      "lon": 2.1829698538474984
+    }
+  }, 
+  {
+      "box": true, 
+      "vehicle": "ELECTRIC_SCOOTER", 
+      "location": {
+          "lat": 41.40668166914191, 
+          "lon": 2.1794396752388514
+      }, 
+      "id": "courier-3", 
+      "name": "Cassandra Miles"
+  }, 
+  {
+      "box": false, 
+      "vehicle": "ELECTRIC_SCOOTER", 
+      "location": {
+          "lat": 41.39636718790941, 
+          "lon": 2.1611637818740297
+      }, 
+      "id": "courier-4", 
+      "name": "Rita Dorneles"
+  },
+  {
+    "id": "courier-5",
+    "name": "Pablo Santana",
+    "box": true,
+    "vehicle": "BICYCLE",
+    "location": {
+      "lat": 41.39980694963036, 
+      "lon": 2.1829698538474984
+    }
+  }
+]
